@@ -1,2 +1,2 @@
-default-character-set=latin1
-default-collation=latin1_swedish_ci
+default-character-set=gb2312
+default-collation=gb2312_chinese_ci
